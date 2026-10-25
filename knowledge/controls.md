@@ -57,6 +57,53 @@ Untwine button sits bottom-right, which means Twine is reachable by touch too.
 *Source:* the player's own screenshots, `tools/samples/scenes/play-start.jpg` and
 `tools/samples/play/play1–5.jpg` in the app repo — Claude, 2026-10-25
 
+## Out in the world — *phone*
+
+Read off an iPhone 15 Pro Max recording (19.5:9, the same shape as the player's phone) and a
+22 Oct 2026 Android one. Evidence: `log/2026-10-25-environment-videos.md`.
+
+### Left and bottom
+
+| What | About where | Notes |
+|---|---|---|
+| Minimap | 0.14, 0.15 | Round, "N" at the top, a sun or moon beside it for time of day. |
+| Quest tracker | 0.08–0.29 wide, 0.35–0.54 | The tracked quest's name in yellow, its steps under it. |
+| Joystick | about 0.24, 0.72 | See the correction below — it appears where the thumb lands. |
+| Camera (photo mode) | 0.09, 0.84 | |
+| Chat · emote · a third icon | 0.08–0.15, 0.89 | Only some players show all three. |
+| Lock-on | 0.27, 0.92 | A ring with a dot. |
+| Energy pips, health bar | 0.50, 0.90 and 0.93 | |
+
+### Top right — the shortcuts
+
+Named from a console version's radial menu, which shows the same icons with labels.
+
+| Icon | Opens |
+|---|---|
+| "S1" badge | Season Achievement |
+| Calendar with a star | Events |
+| Hexagon | Elite Training |
+| Card / booklet | Institute Guide — **Daily Activity** lives here |
+| Cat face | the Aniimo screen |
+| Stall with an "S" coin | Shop |
+| Pod in a ring (always right-most) | **Main menu** — inferred, see `knowledge/screens.md` |
+
+The row **grows with level**: at level 15 only Events, the cat and the menu pod showed; at level
+51, all seven. So find an icon by its picture, never by its place in the row.
+
+### Right — party and actions
+
+| What | About where | Notes |
+|---|---|---|
+| Party portraits | 0.90, at 0.17 / 0.33 / 0.46 | The three Aniimo in the party, each with its level. |
+| Switch target | 0.80, 0.57 | Circular arrows. |
+| **Recall** | 0.88, 0.58 | Calls your Aniimo back. |
+| **Main action** (largest) | 0.82, 0.75 | |
+| Pod throw | 0.65, 0.75 | Shows how many pods are left. |
+| Skill buttons | ring between 0.65 and 0.90 | **Labels change with the party** — seen: Damage, Control, Dash, Heal, REGEN, Draw In, Luminous Seed. |
+| **Twine** / Untwine | 0.65, 0.90 | Twine takes direct control of the Aniimo; the same spot reads Untwine while twined. |
+| Jump and dodge | 0.89, 0.80 and 0.81, 0.92 | Running-figure icons. |
+
 ## The movement pad is fixed — so walking can be automated
 
 **Settled 2026-10-25.** The pad is drawn at the same place in all six of the player's
@@ -78,10 +125,20 @@ recording made outside a dungeon.
 *Source:* `tools/samples/scenes/play-start.jpg` and `tools/samples/play/play1–5.jpg`
 — Claude, 2026-10-25
 
+**Correction (2026-10-25, Claude):** "fixed" is only half right. The small four-arrow icon is
+always drawn at the same spot, but while a thumb is down the stick itself — a big faint ring with
+a white dot — appears **where the thumb landed** in the lower-left: its centre moved between
+y 0.72 and 0.80 across frames of a 22 Oct Android recording and a mobile settings video. So it is
+semi-floating. The conclusion still stands, and is stronger: a floating stick starts wherever you
+press, so **press near the icon and drag** walks the character either way.
+*Source:* `log/2026-10-25-environment-videos.md`
+
 ## Still unknown
 
 - What the two bottom-middle buttons do.
 - Whether the camera is turned by dragging the right half of the screen.
-- The layout outside the dungeon — town, Homeland, menus — which is where the dailies live.
+- ~~The layout outside the dungeon~~ — now mapped above, and the menus in `knowledge/screens.md`.
+- Whether dragging the right half of the screen turns the camera (probable, not yet seen).
+- The Homeland HUD: a different bottom bar (Aniimo · Manage · Home · Build · Warehouse) was seen on PC.
 
 *Signed:* Claude, 2026-10-25

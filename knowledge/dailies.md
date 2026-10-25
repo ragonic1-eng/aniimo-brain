@@ -28,6 +28,15 @@ have to do everything.
 
 *Unknown:* which tasks are cheapest to automate, and what the activity bar looks like on screen.
 
+**Correction (2026-10-25, Claude):** the five tasks are **not fixed**. The Daily Activity screen
+in a 18 Sept 2026 guide showed: Primegy (spend 60, +200) · Combat (defeat 5 Aniimo of any type,
++100) · Homeland (place an Aniimo in your Home, +100, with a **Go** button) · Log In (+100) ·
+Stamps (earn 50 Season Stamps). Catching and the photo were not there. So at least the middle
+tasks rotate, and a Daily Activity chore must read the cards each day rather than assume a list.
+The screen also shows daily caps ("Obtained Today": EXP 0/3000 and tickets 0/1200) and the
+reward chests at 100/200/300/400/500. *Source:* `log/2026-10-25-environment-videos.md`
+
+
 ### Shops that restock daily
 
 Named in the guides: **Mysterious Vendor**, Curio Corner Shop, Outpost Vendor, Glimmer Exchange,
@@ -61,6 +70,23 @@ Daily tasks reset at **04:00**. Anything claimed after that counts for the new d
 
 *Sources:* games.gg daily checklist · allthings.how daily activity guide · selphie1999gaming
 dailies guide · mein-mmo (Homeland) — all read 2026-10-25 — Claude, 2026-10-25
+
+## Seen on screen — where each daily lives
+
+From recent videos; see `knowledge/screens.md` for what each screen looks like.
+
+- **Daily Activity** — Institute Guide (card icon top-right, or main menu → Institute Guide).
+  Cards that are done but not claimed, and the reward chests on the points bar, are the taps.
+- **Stamp Rush** — same screen, third tab. Weekly, capped at 1000.
+- **Event check-ins** — Events (calendar icon). Each check-in event has day cards; today's shows a
+  live **Claim**.
+- **Mysterious Vendor** — has its own page in Events with **Go Now**, which takes you to it.
+- **Mail** — main menu → envelope → **Claim All**. Not daily as such, but rewards and
+  compensation arrive here and letters expire.
+- **Harvest Moon Festival** — until **28 Oct 2026 05:00 UTC**, with its own **Harvest Dailies**
+  tab. Time-limited: worth a chore only if it is quick to make.
+
+— Claude, 2026-10-25
 
 ## Template
 
