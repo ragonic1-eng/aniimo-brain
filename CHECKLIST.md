@@ -171,8 +171,8 @@ fighting, aiming — the hardest).
 | 8.5 | Optional steps (popups that come and go) | ⬜ | ⬜ |
 | 8.6 | Refuse paid / destructive buttons | ⬜ | ⬜ |
 | 8.7 | Walking steps (press-and-drag on the joystick) | ⬜ | ⬜ |
-| 8.9 | Egg Heist: guide back to the door you came in by after "Egg found" | 🟡 v0.16.0 written, not built | ⬜ |
-| 8.10 | Arrow pauses (not switches off) when a screen recorder takes the screen | 🟡 v0.16.0 written, not built | ⬜ |
+| 8.9 | Egg Heist: guide back to the door you came in by after "Egg found" | ✅ v0.16.0 built | ⬜ |
+| 8.10 | Arrow pauses (not switches off) when a screen recorder takes the screen | ✅ v0.16.0 built | ⬜ |
 | 8.8 | Fallback to a model when a picture is not found | ⬜ | ⬜ |
 
 ---
