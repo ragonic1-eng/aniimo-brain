@@ -10,9 +10,9 @@ This is the first footage of the player's own phone, so everything here moves ro
 ## What was on the phone
 
 - **"Show taps" was on.** The indicator is a translucent mid-grey disc about 0.021 of screen
-  height in radius with a thin light-blue rim — *not* a bright white dot. It brightens dark
-  buttons and darkens light panels, so a detector that looks only for "brighter" misses half of
-  the taps. See the converter notes at the end.
+  height in radius with a thin light-blue rim — pale everywhere, but only faintly brighter than
+  a mid-tone surround (about 10–20 grey levels; +65 on dark; a small white disc on pale cards).
+  See the converter notes at the end.
 - **Egg Heist Map's own overlay button** — the yellow egg in a ring at (0.03, 0.50) — was up
   the whole time. It covers nothing the game needs.
 - **A WhatsApp notification banner** slid over the top of the game at 7:30.
