@@ -38,6 +38,24 @@ Evidence for all of these: `log/2026-10-25-environment-videos.md` · — Claude,
 - **Recovery exists:** Settings → Game → **Unstuck** [Confirm] frees a stuck character. A walking
   chore that stops making progress can use it.
 
+## Seen while watching players do their dailies (2026-10-25)
+
+- **Claimed Daily Activity cards jump to the end of the row.** Every claim shifts the rest left,
+  so a chore can never reuse the last claim's position. **What to do:** a repeating step that
+  searches the whole row each time.
+- **Daily Activity chests are claimed separately from the cards.** Claiming every card leaves the
+  reward chests on the points bar waiting, each with a red gift badge. **What to do:** a second
+  loop for the chests, with its own close for the "Item Obtained" box.
+- **The Shop's bottom row mixes free and paid tabs** — Corner Shop sits right beside Top-Up, Pack
+  and Monthly Pass. **What to do:** never tap those three; find Corner Shop by its words.
+- **The app runs consecutive repeating steps as one loop.** Two separate loops need an ordinary
+  step between them. **What to do:** as in `chores/daily-activity-claim/`, step 6.
+- **The app has no optional steps yet.** The schema's `optional` (for popups that show only
+  sometimes) is not understood by the app — a missing popup would stop a chore. **What to do:** the
+  importer must skip an optional step that is not on screen, before any drafted chore can run.
+
+*Source:* `log/2026-10-25-streamer-dailies.md` — Claude, 2026-10-25
+
 ## Template
 
 - **What happens:** the symptom, as the player would describe it.

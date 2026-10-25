@@ -58,6 +58,29 @@ Evidence for all of this: `log/2026-10-25-environment-videos.md`.
 - **Stamp Rush tab:** wide cards (Holo-Battle Sim, Home Orders, Wild Surge, Defeat Alphas, …)
   each with **Go**; a "Weekly earned x/1000" count top-right.
 
+### Shop
+
+- **You can tell by:** "Shop" top-left, currency totals top-right, a row of tabs along the bottom:
+  Monthly Pass · Pack · Appearance · Item · **Corner Shop** · **Top-Up**.
+- **Reached from:** main menu → Shop, or the stall-with-a-coin icon top-right on the HUD.
+- **Corner Shop tab:** two round tabs on the left — **Corner Shop** (today's four boxes and an
+  **Open All** button, "Stock refreshes in …") and **Exchange** (a grid of vendor cards: Outpost
+  Vendor, ChillBeanz, Lumen, Mysterious Vendor, Super Claw, Coilstrike Club; each card has a
+  location pin or an arrow).
+- **A vendor's page** (e.g. Mysterious Vendor): item cards with credit prices on the left; the
+  chosen item's details on the right with **Daily limit n/n**, a quantity stepper (min, −, +, max),
+  the total, and **Buy**.
+- **Never:** Top-Up, Pack and Monthly Pass are real money.
+
+*Source:* `log/2026-10-25-streamer-dailies.md` — Claude, 2026-10-25
+
+**Addition (2026-10-25, Claude) to Institute Guide:** by October it has **four** tabs — Daily
+Activity, Aniimo Challenge, **Holo-Battle Sim**, Stamp Rush. And a Daily Activity card has a fourth
+state: **yellow, with a blue Claim button and a red "!"** — done, points not yet collected.
+Claiming greys the card and moves it to the right-hand end of the row. Chests on the points bar
+show a **red gift badge** once reachable; tapping one gives an "Item Obtained" box.
+*Source:* `log/2026-10-25-streamer-dailies.md` — Claude, 2026-10-25
+
 ### Log (the quest menu)
 
 - **You can tell by:** "Log" top-left, three pill tabs top-middle: **Lore · Quests · Journey**.

@@ -1,0 +1,106 @@
+{
+  "name": "Claim Daily Activity",
+  "goal": "Collect the points and rewards for the daily tasks already done, and every reward chest those points unlock — up to 3,000 EXP a day.",
+  "doneWhen": "No yellow card with a blue Claim button is left, and no chest on the points bar shows a red gift badge.",
+  "startsAt": "Out in the world (the HUD)",
+  "endsAt": "Out in the world (the HUD)",
+  "steps": [
+    {
+      "find": "A \"Rate Me\" popup over the game, with Maybe Later on the left and Confirm on the right",
+      "do": "tap",
+      "expect": "The popup closes",
+      "near": {
+        "x": 0.47,
+        "y": 0.64
+      },
+      "optional": true
+    },
+    {
+      "find": "The pod-in-a-ring icon at the right-hand end of the row of icons in the top-right corner of the game screen",
+      "do": "tap",
+      "expect": "The main menu slides in on the right: a grid of tiles, and a close X where the icon was",
+      "near": {
+        "x": 0.91,
+        "y": 0.055
+      }
+    },
+    {
+      "find": "The \"Institute Guide\" tile in the main menu: a small tile with a dark booklet icon, below Events",
+      "do": "tap",
+      "expect": "Institute Guide opens, with round tabs down a blue strip on the left",
+      "near": {
+        "x": 0.66,
+        "y": 0.78
+      }
+    },
+    {
+      "find": "The \"Daily Activity\" tab, the top round tab on the blue strip at the left",
+      "do": "tap",
+      "expect": "\"Daily Activity\" heading, a row of task cards, a points bar along the bottom",
+      "near": {
+        "x": 0.095,
+        "y": 0.33
+      }
+    },
+    {
+      "find": "A blue \"Claim\" button with a small red ! on a yellow task card. Not a dark \"Go\" button, and not a grey card marked Claimed",
+      "do": "tap",
+      "expect": "That card turns grey with a big tick and \"Claimed\", moves to the right-hand end of the row, and the points number on the bar goes up",
+      "near": {
+        "x": 0.24,
+        "y": 0.73
+      },
+      "repeat": true
+    },
+    {
+      "find": "The \"Daily Activity\" tab again (this step only separates the card loop from the chest loop)",
+      "do": "tap",
+      "expect": "The Daily Activity page stays as it is",
+      "near": {
+        "x": 0.095,
+        "y": 0.33
+      }
+    },
+    {
+      "find": "A reward chest on the points bar along the bottom that carries a small red gift badge",
+      "do": "tap",
+      "expect": "An \"Item Obtained\" box appears showing the rewards",
+      "near": {
+        "x": 0.4,
+        "y": 0.86
+      },
+      "repeat": true
+    },
+    {
+      "find": "The \"Item Obtained\" box in the middle of the screen",
+      "do": "tap",
+      "expect": "The box closes; that chest now shows a tick",
+      "near": {
+        "x": 0.5,
+        "y": 0.85
+      },
+      "repeat": true
+    },
+    {
+      "find": "The back arrow at the top-left, beside \"Institute Guide\"",
+      "do": "tap",
+      "expect": "The main menu or the game screen is back",
+      "near": {
+        "x": 0.04,
+        "y": 0.06
+      }
+    },
+    {
+      "find": "The round close X in the top-right corner of the main menu",
+      "do": "tap",
+      "expect": "The menu closes and the game screen is back",
+      "near": {
+        "x": 0.94,
+        "y": 0.07
+      },
+      "optional": true
+    }
+  ],
+  "source": "log/2026-10-25-streamer-dailies.md, log/2026-10-25-environment-videos.md",
+  "signed": "Claude, 2026-10-25 — draft, not yet run or seen on the player's phone"
+}

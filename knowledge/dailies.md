@@ -88,6 +88,38 @@ From recent videos; see `knowledge/screens.md` for what each screen looks like.
 
 — Claude, 2026-10-25
 
+## The routine as regular players run it
+
+Three dedicated creators, filmed 1–19 Oct 2026, do the same things in nearly the same order.
+Marked **menu** where it can be done from menus alone (a chore can do it today), **walk** where the
+character has to move, **play** where it needs judgement.
+
+1. **Shop → Corner Shop → Open All** — reveals the day's cosmetic stock. *menu*
+2. **Shop → Corner Shop → Exchange → Mysterious Vendor** — buy the day's rotating stock; each item
+   has a daily limit and a max button. Kairos does this first, every login. *menu* — this is the
+   player's "buy everything in the mysterious shop", and it needs **no walking**.
+3. **Spend Primegy** before it caps at 300: Institute Guide → Aniimo Challenge (fights, *play*), or
+   Shop → Exchange → Outpost Vendor → **Daily Supply Pack** (*menu*, weaker value).
+4. **Homeland:** Aniimo on a Trip, home orders, seeds, food, bud tickets, processors, egg hatchers,
+   selling surplus. *menu + walk*
+5. **Nurture** — one free a day, stacks to three; reached from the Map. *menu*, unconfirmed
+6. **Institute Guide → Daily Activity → claim** everything, then the chests. *menu* — chore drafted:
+   `chores/daily-activity-claim/`
+7. **Mail → Claim All.** *menu* — chore drafted: `chores/claim-mail/`
+8. **Egg Heist** — at least one run a day (the first gives double rank points). *play*
+9. **Events** — whatever is running; check-ins have a Claim on today's card. *menu*
+
+**Weekly** (Kairos, zenitizer): Companion Handbook quests and its stamp Exchange, the season shop,
+discounted pods at Outpost Vendor and Super Claw, a weekly ticket at Coilstrike Club, the hardest
+Holo-Battle Sim, Holo-Battle Interlink, Omega challenges (three each), emptying the Homeland
+warehouse.
+
+**Daily Activity tasks seen so far** (they rotate): Log In · Primegy 60 · Stamps 50 · Catch 5 ·
+Combat (defeat 5) · Homeland (place an Aniimo) · Shop (buy any item). Buying at the Mysterious
+Vendor covers "Shop"; buying a Daily Supply Pack covers most of "Primegy".
+
+*Source:* `log/2026-10-25-streamer-dailies.md` — Claude, 2026-10-25
+
 ## Template
 
 ### <routine name>

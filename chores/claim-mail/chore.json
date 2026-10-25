@@ -1,0 +1,76 @@
+{
+  "name": "Claim all mail",
+  "goal": "Collect every reward waiting in the in-game mail — event rewards, compensation and gifts arrive there, and letters expire.",
+  "doneWhen": "The mail list shows no reward icons waiting, and tapping Claim All again brings no Item Obtained box.",
+  "startsAt": "Out in the world (the HUD)",
+  "endsAt": "Out in the world (the HUD)",
+  "steps": [
+    {
+      "find": "A \"Rate Me\" popup over the game, with Maybe Later on the left and Confirm on the right",
+      "do": "tap",
+      "expect": "The popup closes",
+      "near": {
+        "x": 0.47,
+        "y": 0.64
+      },
+      "optional": true
+    },
+    {
+      "find": "The pod-in-a-ring icon at the right-hand end of the row of icons in the top-right corner of the game screen",
+      "do": "tap",
+      "expect": "The main menu slides in on the right: a grid of tiles, and a close X where the icon was",
+      "near": {
+        "x": 0.91,
+        "y": 0.055
+      }
+    },
+    {
+      "find": "The envelope icon on the thin vertical rail at the right edge of the main menu, below the gear",
+      "do": "tap",
+      "expect": "The Mail list opens, titled \"Mail\" with a count out of 200",
+      "near": {
+        "x": 0.94,
+        "y": 0.72
+      }
+    },
+    {
+      "find": "The \"Claim All\" button at the bottom of the mail list. NOT \"Delete Read\", which sits just to its left",
+      "do": "tap",
+      "expect": "An \"Item Obtained\" box shows what was collected, or nothing changes if there was nothing to claim",
+      "near": {
+        "x": 0.3,
+        "y": 0.915
+      }
+    },
+    {
+      "find": "An \"Item Obtained\" box in the middle of the screen",
+      "do": "tap",
+      "expect": "The box closes and the mail list is back",
+      "near": {
+        "x": 0.5,
+        "y": 0.85
+      },
+      "optional": true
+    },
+    {
+      "find": "The back arrow at the top-left of the mail screen",
+      "do": "tap",
+      "expect": "The main menu is back",
+      "near": {
+        "x": 0.04,
+        "y": 0.06
+      }
+    },
+    {
+      "find": "The round close X in the top-right corner of the main menu",
+      "do": "tap",
+      "expect": "The menu closes and the game screen is back",
+      "near": {
+        "x": 0.94,
+        "y": 0.07
+      }
+    }
+  ],
+  "source": "log/2026-10-25-streamer-dailies.md, log/2026-10-25-environment-videos.md",
+  "signed": "Claude, 2026-10-25 — draft, not yet run or seen on the player's phone"
+}
