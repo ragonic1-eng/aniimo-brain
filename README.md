@@ -1,5 +1,7 @@
 # Aniimo brain
 
+**Recording:** [RECORDING-GUIDE.md](RECORDING-GUIDE.md) — how the player records so the helper learns their phone. **Rules:** `knowledge/rules.md`.
+
 **Progress:** [CHECKLIST.md](CHECKLIST.md) — everything there is to learn about the game, and what is done.
 
 Shared notes about playing **Aniimo** — written by the humans and AI assistants working on
