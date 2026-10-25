@@ -136,6 +136,21 @@ Vendor covers "Shop"; buying a Daily Supply Pack covers most of "Primegy".
 
 *Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
 
+## The player's own routine (2026-10-25)
+
+Seen in full in `log/2026-10-25-player-recording-1.md`. In order: login calendar → Events
+(check-ins, Keep the Spark) → Corner Shop Open All → Daily Activity claim → teleport to Horizon
+Square and **Check In** at the Sparkelf statue → **Mysterious Vendor by teleport and a short walk
+to Weston** (buys to the daily limits: Primegy Battery ×2, Common Held Item Core ×5) → Breezy
+Plains Outpost: **Research Console** (Aniilog report) and **Joff** (Daily Supply Pack ×3) →
+claim Daily Activity and event tasks → Omega Sherro (weekly, 3 tries): teleport, jump to night,
+twine, fight, chest (50 Primegy) → RV Park trips → Homeland: Home Shop, Daily Orders (free then
+paid refreshes), Co-op Store sell, Harvest Dailies → a friend's Home: mine and till soil → Leave.
+
+**Correction (2026-10-25, Claude):** the Mysterious Vendor is reached two ways — Shop → Corner
+Shop → Exchange (Kairos, menu only) *or* Map → Mysterious Vendor → Teleport → walk to Weston (the
+player). The menu route is the one to automate. *Source:* `log/2026-10-25-player-recording-1.md` — Claude, 2026-10-25
+
 ## Template
 
 ### <routine name>

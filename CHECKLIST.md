@@ -25,26 +25,26 @@ fighting, aiming — the hardest).
 
 | # | Item | Kind | Learned | Your phone | Automated | What unblocks it |
 |---|---|---|---|---|---|---|
-| 1.1 | Joystick — where it is, that it starts where the thumb lands | walk | ✅ | 🟡 rest icon only | ⬜ | Walking steps in the app |
-| 1.2 | Turning the camera | walk | ⬜ | ⬜ | ⬜ | A recording of the player walking |
+| 1.1 | Joystick — where it is, that it starts where the thumb lands | walk | ✅ | ✅ floating ring, knob and direction dot | ⬜ | Walking steps in the app |
+| 1.2 | Turning the camera | walk | ⬜ | 🟡 a second dot on the right half | ⬜ | A recording of the player walking |
 | 1.3 | Main action button | play | 🟡 where, not what | ✅ | ⬜ | A combat recording |
 | 1.4 | Skill buttons — they rename with the party | play | ✅ | ✅ | ⬜ | — |
-| 1.5 | Dash, jump, dodge | walk/play | 🟡 Dash and Dodge seen; jump not | ✅ | ⬜ | A recording |
-| 1.6 | Twine / Untwine (taking control of the Aniimo) | play | ✅ the ring becomes the Aniimo's moves | ✅ | ⬜ | A recording |
-| 1.7 | Recall, switch target, lock-on | play | ✅ where | 🟡 | ⬜ | — |
+| 1.5 | Dash, jump, dodge | walk/play | 🟡 Dash and Dodge seen; jump not | ✅ Dash used | ⬜ | A recording |
+| 1.6 | Twine / Untwine (taking control of the Aniimo) | play | ✅ the ring becomes the Aniimo's moves | ✅ twined for the Omega fight | ⬜ | A recording |
+| 1.7 | Recall, switch target, lock-on | play | ✅ where | ✅ | ⬜ | — |
 | 1.8 | Pod throw and catch mode | play | ✅ reticle, chance, pod picker, Alpha catch screen | ⬜ | ⬜ | A recording of a catch |
-| 1.9 | Top-right shortcut icons, and that the row grows with level | menu | ✅ | ⬜ | — | A screenshot from the player's HUD |
-| 1.10 | Opening the main menu (pod-in-a-ring icon) | menu | ✅ PC labels it Esc | ⬜ | ⬜ | One tap seen on the player's phone |
+| 1.9 | Top-right shortcut icons, and that the row grows with level | menu | ✅ | ✅ | — | A screenshot from the player's HUD |
+| 1.10 | Opening the main menu (pod-in-a-ring icon) | menu | ✅ PC labels it Esc | ✅ | ⬜ | One tap seen on the player's phone |
 | 1.11 | Reading the minimap | — | ✅ | ✅ | ✅ app finds the player 4 of 5 | — |
-| 1.12 | Quest tracker under the minimap | — | ✅ | ⬜ | — | — |
+| 1.12 | Quest tracker under the minimap | — | ✅ | ✅ | — | — |
 
 ## 2. Getting around the world
 
 | # | Item | Kind | Learned | Your phone | Automated | What unblocks it |
 |---|---|---|---|---|---|---|
 | 2.1 | The world map and its panels | menu | ✅ | ✅ | — | — |
-| 2.2 | Teleporting from the map | menu | ✅ tap a Bloom → Teleport | ⬜ | ⬜ | A recording |
-| 2.3 | Walking to a place | walk | ⬜ | ⬜ | ⬜ | Walking steps + 2.2 |
+| 2.2 | Teleporting from the map | menu | ✅ tap a Bloom → Teleport | ✅ four teleports | ⬜ | A recording |
+| 2.3 | Walking to a place | walk | ⬜ | ✅ short walks to the statue, Weston, the console | ⬜ | Walking steps + 2.2 |
 | 2.4 | Regions, branches, Breezy Plains etc. | — | ✅ 14 Idyll regions, listed in Nurture | 🟡 | — | — |
 | 2.5 | Unstuck (Settings → Game) | menu | ✅ | ⬜ | ⬜ | — |
 | 2.6 | Weather schedule on the map | menu | 🟡 Help covers weather; a time-of-day dial | ⬜ | — | — |
@@ -53,27 +53,27 @@ fighting, aiming — the hardest).
 
 | # | Screen | Learned | Your phone | Notes |
 |---|---|---|---|---|
-| 3.1 | Main menu grid and its right rail | ✅ | ⬜ | |
-| 3.2 | Events (check-in cards, Go Now, Rules) | ✅ | ⬜ | Changes every update |
-| 3.3 | Institute Guide: Daily Activity, Aniimo Challenge, Holo-Battle Sim, Stamp Rush | ✅ | ⬜ | Four card states known |
+| 3.1 | Main menu grid and its right rail | ✅ | ✅ |  |
+| 3.2 | Events (check-in cards, Go Now, Rules) | ✅ | ✅ | Changes every update |
+| 3.3 | Institute Guide: Daily Activity, Aniimo Challenge, Holo-Battle Sim, Stamp Rush | ✅ | ✅ Daily Activity and Aniimo Challenge | Four card states known |
 | 3.4 | Log — the quest menu (Lore / Quests / Journey) | ✅ | ⬜ | |
 | 3.5 | Elite Training (five paths) | ✅ | ⬜ | |
 | 3.6 | Settings (six tabs) | ✅ | ⬜ | |
 | 3.7 | Character → Profile | ✅ | ⬜ | |
 | 3.8 | Inventory (out in the world) | ✅ | ⬜ | The player's inventory shots are the Egg Heist one, a different screen |
-| 3.9 | Mail | ✅ | ⬜ | |
-| 3.10 | Shop: Corner Shop, Exchange, vendor pages | ✅ | ⬜ | Top-Up / Pack / Monthly Pass are paid |
+| 3.9 | Mail | ✅ | ✅ |  |
+| 3.10 | Shop: Corner Shop, Exchange, vendor pages | ✅ | ✅ Corner Shop, vendor pages | Top-Up / Pack / Monthly Pass are paid |
 | 3.11 | Season Achievement | ✅ | ⬜ | |
-| 3.12 | Companion Handbook (season pass) and Monthly Pass | ✅ | ⬜ | Buy Level is paid |
-| 3.13 | Aniimo Management | ✅ | ⬜ | Release is never in a chore |
-| 3.14 | Party | ✅ | ⬜ | A battle party of four, on the Aniimo screen |
+| 3.12 | Companion Handbook (season pass) and Monthly Pass | ✅ | ✅ | Buy Level is paid |
+| 3.13 | Aniimo Management | ✅ | ✅ | Release is never in a chore |
+| 3.14 | Party | ✅ | ✅ | A battle party of four, on the Aniimo screen |
 | 3.15 | Aniilog (the Aniimo index) | ✅ | ⬜ | Aniilog Level → Submit Report |
-| 3.16 | Friends | ⬜ | ⬜ | Needed for "message friends" |
+| 3.16 | Friends | ⬜ | ✅ Friend List | Needed for "message friends" |
 | 3.17 | Appearance | 🟡 seen once | ⬜ | Low priority |
 | 3.18 | Courses | ⬜ | ⬜ | |
-| 3.19 | Homeland menus: Manage, Build, Warehouse, orders, processors | ✅ Home Overview, Daily Orders, Trips, Home Shop | ⬜ | Build and Warehouse not yet seen |
+| 3.19 | Homeland menus: Manage, Build, Warehouse, orders, processors | ✅ Home Overview, Daily Orders, Trips, Home Shop | ✅ Home Shop, Daily Orders, Co-op Store, Harvest Dailies | Build and Warehouse not yet seen |
 | 3.20 | Hatching screen (Hatch, Twine an Aniipod) | ✅ | ⬜ |  |
-| 3.21 | Start-up: login, announcements, server select | 🟡 server select only | ⬜ | Every chore day starts here |
+| 3.21 | Start-up: login, announcements, server select | 🟡 server select only | 🟡 title and server, no announcements | Every chore day starts here |
 | 3.22 | Character → Info · Badges · Talents | ✅ | ⬜ | Title, level, Aniimo level cap, Paths |
 | 3.23 | Nurture and Nurturing Offering | ✅ | ⬜ | |
 | 3.24 | Help (in-game encyclopedia) | ✅ | ⬜ | Good for checking a mechanic |
@@ -83,31 +83,31 @@ fighting, aiming — the hardest).
 
 | # | Item | Kind | Learned | Your phone | Automated | What unblocks it |
 |---|---|---|---|---|---|---|
-| 4.1 | Claim Daily Activity tasks and chests | menu | ✅ | ⬜ | 🟡 drafted | Chore import + optional steps in the app |
-| 4.2 | Mail → Claim All | menu | ✅ | ⬜ | 🟡 drafted | Same |
-| 4.3 | **Mysterious Vendor — buy the day's stock** | menu | ✅ | ⬜ | ⬜ | Draft the chore |
-| 4.4 | Corner Shop → Open All | menu | ✅ | ⬜ | ⬜ | Draft the chore |
-| 4.5 | Daily Supply Pack (spend Primegy) | menu | ✅ | ⬜ | ⬜ | Draft the chore |
-| 4.6 | Primegy: cap 300, +1 per 6 min, where to spend it | menu/play | ✅ 30 per Alpha claim; Glimmer refill | ⬜ | ⬜ |  |
+| 4.1 | Claim Daily Activity tasks and chests | menu | ✅ | ✅ | 🟡 drafted | Chore import + optional steps in the app |
+| 4.2 | Mail → Claim All | menu | ✅ | ✅ (No Mail) | 🟡 drafted | Same |
+| 4.3 | **Mysterious Vendor — buy the day's stock** | menu | ✅ | ✅ teleport + walk route | ⬜ | Draft the chore |
+| 4.4 | Corner Shop → Open All | menu | ✅ | ✅ | ⬜ | Draft the chore |
+| 4.5 | Daily Supply Pack (spend Primegy) | menu | ✅ | ✅ Joff at the Outpost | ⬜ | Draft the chore |
+| 4.6 | Primegy: cap 300, +1 per 6 min, where to spend it | menu/play | ✅ 30 per Alpha claim; Glimmer refill | ✅ 50 Primegy chest | ⬜ |  |
 | 4.7 | Free Nurture (one a day, stacks to 3) | menu | ✅ Map → Bloom → Nurture | ⬜ | ⬜ | A recording |
-| 4.8 | Event check-ins | menu | ✅ | ⬜ | ⬜ | One chore per event; they change |
+| 4.8 | Event check-ins | menu | ✅ | ✅ Keep the Spark, login calendar | ⬜ | One chore per event; they change |
 | 4.9 | Homeland / RV: trips, orders, seeds, food, bud tickets, processors, hatchers | menu + walk | ✅ orders, trips, shop; plots need walking | ⬜ | ⬜ | Split into 4.17–4.25; see knowledge/homeland.md |
-| 4.10 | Egg Heist — one run a day (first gives double rank points) | play | ✅ | ✅ | 🟡 map helper, not the run | — |
+| 4.10 | Egg Heist — one run a day (first gives double rank points) | play | ✅ | ⬜ not this time | 🟡 map helper, not the run | — |
 | 4.11 | Message friends | menu | ⬜ | ⬜ | ⬜ | 3.16 |
 | 4.12 | Daily reset time | — | 🟡 guides say 04:00 | ⬜ | — | Which time zone |
 | 4.13 | Which Daily Activity tasks rotate — seen so far: Log In, Primegy 60, Stamps 50, Catch 5, Combat 5, Homeland, Shop | — | 🟡 seven seen | ⬜ | — | Keep noting them |
-| 4.14 | Aniilog Level → Submit Report | menu | ✅ | ⬜ | ⬜ | Draft the chore |
+| 4.14 | Aniilog Level → Submit Report | menu | ✅ | ✅ Research Console in the world | ⬜ | Draft the chore |
 | 4.15 | Replenish Primegy with Glimmer (once a day, optional) | menu | ✅ | ⬜ | ⬜ | Must ask first — it spends |
 | 4.16 | Daily Orders: deliver, use the free refreshes | menu | ✅ | ⬜ | ⬜ | Draft the chore |
-| 4.17 | Home: collect trips and Send Again (Park Board, RV Park) | teleport + walk | ✅ | ⬜ | ⬜ | Short-walk step in the app |
-| 4.18 | Home: Daily Orders via Home → Service Hub | menu | ✅ | ⬜ | ⬜ | Draft the chore |
-| 4.19 | Home: top up seeds (Home Shop) and food (Aniimo → Food → Add All) | menu | ✅ | ⬜ | ⬜ | Draft the chore |
+| 4.17 | Home: collect trips and Send Again (Park Board, RV Park) | teleport + walk | ✅ | ✅ | ⬜ | Short-walk step in the app |
+| 4.18 | Home: Daily Orders via Home → Service Hub | menu | ✅ | ✅ | ⬜ | Draft the chore |
+| 4.19 | Home: top up seeds (Home Shop) and food (Aniimo → Food → Add All) | menu | ✅ | ✅ seeds seen; food not | ⬜ | Draft the chore |
 | 4.20 | Home: harvest the Bud Ticket Jar | walk | ✅ | ⬜ | ⬜ | Short-walk step in the app |
 | 4.21 | Home: swap idle processor recipes (Manage) | menu | ✅ | ⬜ | ⬜ | Needs judgement on which recipe |
 | 4.22 | Home: sell surplus, keep ~20 of each | menu | ✅ | ⬜ | ⬜ | Must ask first — it sells |
 | 4.23 | Home: egg hatchers | ? | ⬜ | ⬜ | ⬜ | Not yet seen |
-| 4.24 | Home: park buff chair, waking slacking Aniimo, friends' plants | walk | ✅ | ⬜ | — | Optional |
-| 4.25 | Getting around at home: Homeland screen → RV Park / Homeland; Home → zone → Teleport; interact prompt | — | ✅ | ⬜ | ⬜ | Interact prompt on a phone not seen |
+| 4.24 | Home: park buff chair, waking slacking Aniimo, friends' plants | walk | ✅ | ✅ friend's Home: mine, till soil | — | Optional |
+| 4.25 | Getting around at home: Homeland screen → RV Park / Homeland; Home → zone → Teleport; interact prompt | — | ✅ | ✅ interact pill at (0.65, 0.45) | ⬜ | Interact prompt on a phone not seen |
 
 ## 5. The weekly routine
 
@@ -119,10 +119,10 @@ fighting, aiming — the hardest).
 | 5.4 | Weekly ticket at Coilstrike Club | walk | 🟡 an NPC hands it out in Astra | ⬜ | ⬜ |
 | 5.5 | Holo-Battle Sim (hardest level once) | play | ✅ the screen; the fights 🟡 | ⬜ | ⬜ |
 | 5.6 | Holo-Battle Interlink (team mode, on a schedule) | play | 🟡 | ⬜ | — |
-| 5.7 | Omega challenges, three each | play | 🟡 | ⬜ | ⬜ |
+| 5.7 | Omega challenges, three each | play | 🟡 | ✅ Young Omega Sherro | ⬜ |
 | 5.8 | Empty the Homeland warehouse | menu | 🟡 | ⬜ | ⬜ |
 | 5.9 | Stamp Rush (weekly cap 1000) | menu/play | ✅ screen | ⬜ | ⬜ |
-| 5.10 | Weekly reset day and time | — | 🟡 countdowns seen, not the exact moment | ⬜ | — |
+| 5.10 | Weekly reset day and time | — | 🟡 countdowns seen, not the exact moment | 🟡 weekly limits announced by toasts | — |
 
 ## 6. How the game works underneath
 
@@ -156,6 +156,9 @@ fighting, aiming — the hardest).
 | 7.11 | Releasing Aniimo cannot be undone | ✅ | ⬜ refuse-list not built |
 | 7.12 | Dialogs that spend quietly (Replenish Primegy, Alpha claim, paid refreshes) | ✅ | ⬜ needs confirmFirst |
 | 7.13 | The Alpha catch screen is on a timer | ✅ | ⬜ |
+| 7.14 | Phone notification banners over the game | ✅ | ⬜ retry-for-5-s not built |
+| 7.15 | Login calendar popup every day | ✅ | ⬜ |
+| 7.16 | Vendor cutscene with Auto / Skip the first time | ✅ | ⬜ |
 
 ## 8. The helper itself (the app side)
 
@@ -174,17 +177,15 @@ fighting, aiming — the hardest).
 
 ## Where it stands
 
-Counted across sections 1–7, last on 2026-10-25 (after `log/2026-10-25-homeland.md`):
+Counted across sections 1–7, last on 2026-10-25 (after `log/2026-10-25-player-recording-1.md`):
 
-- **Learned:** 76 ✅ · 18 🟡 · 7 ⬜ (101 items) — was 38 · 29 · 15 of 82 earlier the same day
-- **Seen on your phone:** 7 ✅ · 3 🟡 · 68 ⬜ — almost only Egg Heist and the dungeon HUD. Every
-  menu so far comes from other players' videos.
+- **Learned:** 79 ✅ · 18 🟡 · 7 ⬜ (104 items) — was 38 · 29 · 15 of 82 earlier the same day
+- **Seen on your phone:** 37 ✅ · 4 🟡 · 37 ⬜ — the first recording
+  (2026-10-25) covered the whole daily routine; still unseen: Egg Heist that day, Settings, Elite Training.
 - **Automated:** only the minimap reading has run on your phone. Five of the traps in section 7
   are handled in the app's code, untested on your phone; two chores are drafted, not runnable yet.
 
-**The single most useful next input** is one screen recording from the player's phone, with *Show
-taps and touches* on: log in → main menu → Institute Guide → Mail → Shop → Corner Shop → Exchange →
-Mysterious Vendor. That one video would move about fifteen rows from ⬜ to ✅ in the "Your phone"
-column, and tune the recording converter (8.3).
+**The next most useful input** is a second recording: the walking-and-camera test (RECORDING-GUIDE.md
+#2) and one catch — the two things the daily routine never showed.
 
 — Claude, 2026-10-25

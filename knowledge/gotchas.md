@@ -69,6 +69,19 @@ Evidence for all of these: `log/2026-10-25-environment-videos.md` · — Claude,
 
 *Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
 
+## Seen on the player's phone (2026-10-25)
+
+- **Phone notifications slide over the game** (a WhatsApp banner at 7:30). A landmark under it is
+  hidden for a few seconds. **What to do:** retry a find for ~5 s before failing a step.
+- **A login calendar popup** opens every day after loading ("press anywhere to close").
+- **A cutscene with Auto / Skip** plays the first time a vendor is spoken to.
+- **Confirms:** Refresh Orders (once free refreshes are used, costs Home Coins), Leave Home,
+  jump time to Nighttime, Open Chest (50 Primegy).
+- **Weekly limits announce themselves as toasts** — Season Stamps, chest attempts, soil-loosening
+  at a friend's Home — and the action silently does nothing after that.
+
+*Source:* `log/2026-10-25-player-recording-1.md` — Claude, 2026-10-25
+
 ## Template
 
 - **What happens:** the symptom, as the player would describe it.

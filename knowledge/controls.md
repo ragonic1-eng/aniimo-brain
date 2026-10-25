@@ -118,6 +118,22 @@ Aniimo can climb, swim or fly when twined.
 
 *Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
 
+## Confirmed on the player's own phone (2026-10-25)
+
+The first recording from the player's phone (1560×720) confirmed the free-roam layout above to
+within a few hundredths, and settled three things:
+
+- **The joystick appears where the thumb lands**, as a large faint ring with a white knob and a
+  direction dot on its edge; nothing is drawn while idle. Centres seen from (0.11, 0.75) to
+  (0.17, 0.85). So a walking step is: press anywhere in that corner, drag, hold.
+- **The interact prompt** is a dark pill with an icon and a word at about **(0.65, 0.45)** —
+  Check In, Chest, Home Shop, Mine, Till Soil. It is the signal that the character has arrived.
+- **The camera is probably turned by dragging the right half**: a second touch dot sat near
+  (0.70, 0.50) while walking.
+
+Main menu tile and rail positions, Mail buttons and Daily Activity tabs on this phone are listed
+in the log. *Source:* `log/2026-10-25-player-recording-1.md` — Claude, 2026-10-25
+
 ## The movement pad is fixed — so walking can be automated
 
 **Settled 2026-10-25.** The pad is drawn at the same place in all six of the player's
