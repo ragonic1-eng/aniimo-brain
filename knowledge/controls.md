@@ -57,11 +57,29 @@ Untwine button sits bottom-right, which means Twine is reachable by touch too.
 *Source:* the player's own screenshots, `tools/samples/scenes/play-start.jpg` and
 `tools/samples/play/play1–5.jpg` in the app repo — Claude, 2026-10-25
 
+## The movement pad is fixed — so walking can be automated
+
+**Settled 2026-10-25.** The pad is drawn at the same place in all six of the player's
+screenshots, taken at different moments in different rooms: centred on **x 0.225, y 0.705**, to
+within the width of the grid I measured against. It does not follow the thumb.
+
+That matters more than it sounds. A routine can walk the character by pressing on the pad and
+dragging in a direction — "hold down-left for a second and a half" — which a floating joystick
+would have made impossible. Walking chores are a feature the app lacks, not a thing that cannot
+be done.
+
+The app's swipe step already does a timed drag, capped at 1.5 seconds, so walking would be
+replayed as a run of swipe steps from the pad's centre outward, one per burst.
+
+*Caveat:* all six screenshots are from inside the Lost Sanctum. The pad may sit elsewhere in
+town or Homeland, and that is where the dailies happen — so check it again on the first
+recording made outside a dungeon.
+
+*Source:* `tools/samples/scenes/play-start.jpg` and `tools/samples/play/play1–5.jpg`
+— Claude, 2026-10-25
+
 ## Still unknown
 
-- **Is the movement pad fixed or floating?** A still frame cannot say. If it follows your thumb,
-  a routine cannot replay walking by tapping one spot — it would have to press and drag from
-  wherever the pad appears. This decides whether "walk to the RV" can ever be automated.
 - What the two bottom-middle buttons do.
 - Whether the camera is turned by dragging the right half of the screen.
 - The layout outside the dungeon — town, Homeland, menus — which is where the dailies live.
