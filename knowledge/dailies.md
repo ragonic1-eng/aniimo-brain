@@ -120,6 +120,22 @@ Vendor covers "Shop"; buying a Daily Supply Pack covers most of "Primegy".
 
 *Source:* `log/2026-10-25-streamer-dailies.md` — Claude, 2026-10-25
 
+## More detail on the routine (2026-10-25)
+
+- **Primegy is spent by claiming Alphas:** after a win, "Catch and Claim Rewards" costs 30.
+  It refills one point every six minutes — 30 hours from empty to the 300 cap; the full-recovery
+  timer agreed (37 missing showed 3 h 36 m). "Replenish Primegy" adds 60 for Glimmer.
+- **Nurture:** teleport to a Bloom from the map, open Nurture, pick a region and an offering,
+  tap Nurture. "Daily Nurture Chances x/25" is shown; each costs one Nurture crystal.
+- **Homeland is mostly menus:** Home Overview → Service Hub → Daily Orders (Deliver, free
+  refreshes) and Home Shop (seeds, selling). Trips give rewards with Confirm and Send Again. The
+  plots and the chair buff need walking.
+- **Aniilog Level → Submit Report** pays out research rewards — a new menu-only claim.
+- **Weekly shops seen:** Super Claw (weekly limit 20 on discounted pods), the season shop's Weekly
+  tab, the Egg Heist shop (daily limits, Chaos Tickets). Holo-Battle Sim resets weekly.
+
+*Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
+
 ## Template
 
 ### <routine name>

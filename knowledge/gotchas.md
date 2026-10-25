@@ -56,6 +56,19 @@ Evidence for all of these: `log/2026-10-25-environment-videos.md` · — Claude,
 
 *Source:* `log/2026-10-25-streamer-dailies.md` — Claude, 2026-10-25
 
+## From the gap-filling run (2026-10-25)
+
+- **Releasing Aniimo cannot be undone,** and the game warns training materials are lost. Never in
+  a chore.
+- **Some dialogs spend currency quietly:** "Replenish Primegy" spends Glimmer; an Alpha's "Catch
+  and Claim Rewards" spends 30 Primegy; Daily Orders' refresh is free only five times a day. Any
+  step that confirms one of these must be `confirmFirst`.
+- **The Alpha catch screen is on a timer** ("Catch Countdown 01:45"). A chore that pauses there
+  loses the catch.
+- **Some weekly rewards need walking** — Coilstrike Club's ticket is handed out by an NPC in Astra.
+
+*Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
+
 ## Template
 
 - **What happens:** the symptom, as the player would describe it.

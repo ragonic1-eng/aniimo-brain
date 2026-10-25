@@ -104,6 +104,20 @@ The row **grows with level**: at level 15 only Events, the cat and the menu pod 
 | **Twine** / Untwine | 0.65, 0.90 | Twine takes direct control of the Aniimo; the same spot reads Untwine while twined. |
 | Jump and dodge | 0.89, 0.80 and 0.81, 0.92 | Running-figure icons. |
 
+### Confirmed: what each top-right icon is (2026-10-25)
+
+The PC version prints its key next to each icon: F1 Season · F2 Events · F3 Elite Training ·
+F4 Institute Guide · P Aniimo · F9 Shop · **Esc** on the pod-in-a-ring. Esc is the main menu, so
+the pod-in-a-ring **is** the main menu button — no longer only inferred.
+
+### While twined
+
+Twined, the player *is* the Aniimo: the action ring becomes that Aniimo's own moves (seen: Damage,
+Hustle, Dodge, Aim with a cooldown number) and the Twine button reads **Untwine**. Help says some
+Aniimo can climb, swim or fly when twined.
+
+*Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
+
 ## The movement pad is fixed — so walking can be automated
 
 **Settled 2026-10-25.** The pad is drawn at the same place in all six of the player's

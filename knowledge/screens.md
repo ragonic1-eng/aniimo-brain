@@ -81,6 +81,98 @@ Claiming greys the card and moves it to the right-hand end of the row. Chests on
 show a **red gift badge** once reachable; tapping one gives an "Item Obtained" box.
 *Source:* `log/2026-10-25-streamer-dailies.md` — Claude, 2026-10-25
 
+**Correction (2026-10-25, Claude):** the **Character** tile opens **Info · Badges · Talents** —
+the player's title, level and the "Aniimo Level Cap", the four Paths, and the combat and mobility
+skill sets. The Profile screen described above is reached from the name card at the top of the
+main menu, not from the Character tile. *Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
+
+### Aniimo (also where the party is set)
+
+- **You can tell by:** "Aniimo" top-left, Combat / Explore tabs top-right, a column of four party
+  cards on the left, a hexagon grid of Aniimo in the middle, a stats card on the right.
+- **Reached from:** main menu → Aniimo Management, or the cat-face icon top-right on the HUD.
+- **Buttons:** **Level Up** and **Training** bottom-right; sort and filter, "Storage n (x/24)" and
+  **Manage** along the bottom. Tapping an Aniimo opens its page: tabs Skills · Star Up · Held
+  Items, with **Ascend** and a material cost on Star Up.
+- **Never in a chore:** Manage → **Release** (the "Released Aniimo List" warns that training
+  materials are not returned).
+
+### Aniilog (the Aniimo index)
+
+- **You can tell by:** "Aniilog" top-left, a row of tall Aniimo cards, a collection bar along the
+  bottom, Family Mode / Form Mode top-right.
+- **On it:** each Aniimo's Field Notes, Topics (small research tasks), Skills, Evolve, Forms and
+  Habitats (opens the map). **Aniilog Level** per region shows research points and a
+  **Submit Report** button that pays out rewards — a menu-only claim.
+
+### Map and teleport
+
+- **You can tell by:** "Map" top-left, the region's name, exploration % and coordinates bottom-left,
+  a zoom slider on the left, a world switch (Astra / Idyll) bottom-left.
+- **Teleport:** tap a Bloom or another travel point → a side panel on the right with **Teleport**
+  at its foot.
+
+### Nurture
+
+- **You can tell by:** "Nurture" top-left, a big round emblem in the middle, region names in two
+  columns either side, "This area's Prismatic Energy state" above, "Daily Nurture Chances x/25"
+  bottom-left.
+- **Reached from:** at a Bloom (teleport there from the map), the Nurture prompt.
+- **Buttons:** the **+** under the emblem opens **Nurturing Offering** (pick a shard → Confirm);
+  **Nurture** bottom-right costs one Nurture crystal (count top-right).
+
+### Catching (out in the world) — *phone*
+
+- **You can tell by:** a hexagon reticle on the target with a catch chance and its bonuses
+  (Aniipod type, Backstab for catching from behind), a pod picker along the bottom with counts,
+  throw buttons on the right and a red X to back out.
+- **After beating an Alpha:** "Catch Countdown" — rewards preview, every pod type with its chance,
+  **Catch and Claim Rewards** (costs 30 Primegy) or **Quit**.
+
+### Hatching — *phone*
+
+Choose an Aniipod to twine with the egg → **Confirm** → an animation with **Skip** top-right → the
+result (type, quality, form) → **Claim**.
+
+### Homeland screens
+
+- **Home Overview:** an island map of zones — Production, Mine Exploration, Lakeside Recreation,
+  Service Hub, Limited-Time Event, Homebuilding. Each zone opens a side panel; Service Hub's lists
+  Order Quantity · Home Shop · Co-op Store (each with an arrow) and **Teleport**.
+- **Daily Orders:** client cards side by side. Each shows the item and how many you have, the
+  rewards, a refresh icon top-right, and **Deliver** — dark when you can deliver, grey when you
+  cannot. Top-right: "Today's free refresh attempts n/5". Bottom: current orders, next refresh.
+- **Trip Rewards** (Aniimo on a Trip): rewards per Aniimo, **Confirm** and **Send Again**
+  ("On Foot: 6h 0m").
+- **Home Shop:** seeds to buy; a grid of produce to sell with **Sell Item**.
+
+### Shops with weekly stock
+
+- **Super Claw** (pods): Discount tags, Sold Out, "Weekly Limit n/20", **Buy**.
+- **Season shop:** Weekly and Season tabs on the left, a countdown to the weekly reset.
+- **Egg Heist shop:** Equipment · Egg Heist Ticket · Eggs · Other; daily limits; a Loadout button.
+
+### Holo-Battle Sim
+
+Three training orbs — Water, Fire, Grass — each rated in stars; a weekly "Time remaining" and a
+season timer; "Training Incentive" bottom-left.
+
+### Replenish Primegy
+
+A popup: spend **Glimmer** to restore 60 Primegy; shows the time to full recovery. Confirm spends.
+
+### Select Server (start-up)
+
+"Select Server" with Aniimo-Europe (marked Recommended), Aniimo-Americas and Aniimo-Apac, then
+**Confirm**. The login and announcement screens before it are not yet seen.
+
+### Help, and time of day
+
+The main menu rail's **?** opens **Help**, an in-game encyclopedia (tabs All · System · Training ·
+Combat · Explore) — a good place to check a mechanic. The rail's **sun** opens a time-of-day dial.
+
+*Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
+
 ### Log (the quest menu)
 
 - **You can tell by:** "Log" top-left, three pill tabs top-middle: **Lore · Quests · Journey**.
