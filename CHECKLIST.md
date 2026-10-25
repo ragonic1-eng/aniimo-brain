@@ -91,7 +91,7 @@ fighting, aiming — the hardest).
 | 4.6 | Primegy: cap 300, +1 per 6 min, where to spend it | menu/play | ✅ 30 per Alpha claim; Glimmer refill | ⬜ | ⬜ |  |
 | 4.7 | Free Nurture (one a day, stacks to 3) | menu | ✅ Map → Bloom → Nurture | ⬜ | ⬜ | A recording |
 | 4.8 | Event check-ins | menu | ✅ | ⬜ | ⬜ | One chore per event; they change |
-| 4.9 | Homeland / RV: trips, orders, seeds, food, bud tickets, processors, hatchers | menu + walk | ✅ orders, trips, shop; plots need walking | ⬜ | ⬜ | A recording of the player's Homeland round |
+| 4.9 | Homeland / RV: trips, orders, seeds, food, bud tickets, processors, hatchers | menu + walk | ✅ orders, trips, shop; plots need walking | ⬜ | ⬜ | Split into 4.17–4.25; see knowledge/homeland.md |
 | 4.10 | Egg Heist — one run a day (first gives double rank points) | play | ✅ | ✅ | 🟡 map helper, not the run | — |
 | 4.11 | Message friends | menu | ⬜ | ⬜ | ⬜ | 3.16 |
 | 4.12 | Daily reset time | — | 🟡 guides say 04:00 | ⬜ | — | Which time zone |
@@ -99,6 +99,15 @@ fighting, aiming — the hardest).
 | 4.14 | Aniilog Level → Submit Report | menu | ✅ | ⬜ | ⬜ | Draft the chore |
 | 4.15 | Replenish Primegy with Glimmer (once a day, optional) | menu | ✅ | ⬜ | ⬜ | Must ask first — it spends |
 | 4.16 | Daily Orders: deliver, use the free refreshes | menu | ✅ | ⬜ | ⬜ | Draft the chore |
+| 4.17 | Home: collect trips and Send Again (Park Board, RV Park) | teleport + walk | ✅ | ⬜ | ⬜ | Short-walk step in the app |
+| 4.18 | Home: Daily Orders via Home → Service Hub | menu | ✅ | ⬜ | ⬜ | Draft the chore |
+| 4.19 | Home: top up seeds (Home Shop) and food (Aniimo → Food → Add All) | menu | ✅ | ⬜ | ⬜ | Draft the chore |
+| 4.20 | Home: harvest the Bud Ticket Jar | walk | ✅ | ⬜ | ⬜ | Short-walk step in the app |
+| 4.21 | Home: swap idle processor recipes (Manage) | menu | ✅ | ⬜ | ⬜ | Needs judgement on which recipe |
+| 4.22 | Home: sell surplus, keep ~20 of each | menu | ✅ | ⬜ | ⬜ | Must ask first — it sells |
+| 4.23 | Home: egg hatchers | ? | ⬜ | ⬜ | ⬜ | Not yet seen |
+| 4.24 | Home: park buff chair, waking slacking Aniimo, friends' plants | walk | ✅ | ⬜ | — | Optional |
+| 4.25 | Getting around at home: Homeland screen → RV Park / Homeland; Home → zone → Teleport; interact prompt | — | ✅ | ⬜ | ⬜ | Interact prompt on a phone not seen |
 
 ## 5. The weekly routine
 
@@ -165,10 +174,10 @@ fighting, aiming — the hardest).
 
 ## Where it stands
 
-Counted across sections 1–7, last on 2026-10-25 (after `log/2026-10-25-gap-fill.md`):
+Counted across sections 1–7, last on 2026-10-25 (after `log/2026-10-25-homeland.md`):
 
-- **Learned:** 68 ✅ · 18 🟡 · 6 ⬜ (92 items) — was 38 · 29 · 15 of 82 earlier the same day
-- **Seen on your phone:** 7 ✅ · 3 🟡 · 59 ⬜ — almost only Egg Heist and the dungeon HUD. Every
+- **Learned:** 76 ✅ · 18 🟡 · 7 ⬜ (101 items) — was 38 · 29 · 15 of 82 earlier the same day
+- **Seen on your phone:** 7 ✅ · 3 🟡 · 68 ⬜ — almost only Egg Heist and the dungeon HUD. Every
   menu so far comes from other players' videos.
 - **Automated:** only the minimap reading has run on your phone. Five of the traps in section 7
   are handled in the app's code, untested on your phone; two chores are drafted, not runnable yet.
