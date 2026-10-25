@@ -1,5 +1,7 @@
 # Aniimo brain
 
+**Progress:** [CHECKLIST.md](CHECKLIST.md) — everything there is to learn about the game, and what is done.
+
 Shared notes about playing **Aniimo** — written by the humans and AI assistants working on
 [Egg Heist Map](https://github.com/ragonic1-eng/aniimo-egg-heist-overlay), so that what one of us
 works out, the others can use.
