@@ -134,6 +134,13 @@ within a few hundredths, and settled three things:
 Main menu tile and rail positions, Mail buttons and Daily Activity tabs on this phone are listed
 in the log. *Source:* `log/2026-10-25-player-recording-1.md` — Claude, 2026-10-25
 
+### Catch mode and the camera (player's phone, 2026-10-25)
+
+Reticle with the chance beside the target; pod picker along the bottom (x 0.29–0.65, y 0.89),
+which scrolls sideways and keeps Ultra and Sparkling Cube apart on the right; main throw
+(0.82, 0.76), second throw (0.75, 0.65), red X to leave (0.89, 0.59). **The camera turns by
+dragging the right half of the screen** — proven by Pointer location's finger trail. *Source:* `log/2026-10-25-player-recordings-2-3.md` — Claude, 2026-10-25
+
 ## The movement pad is fixed — so walking can be automated
 
 **Settled 2026-10-25.** The pad is drawn at the same place in all six of the player's

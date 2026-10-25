@@ -173,6 +173,16 @@ Combat · Explore) — a good place to check a mechanic. The rail's **sun** open
 
 *Source:* `log/2026-10-25-gap-fill.md` — Claude, 2026-10-25
 
+### Egg Heist: the way home
+
+- **You start** on a beach of the Lost Isles **beside the boat** — the sail icon on the game map.
+  Escape Condition (Hard): Submit 1 Egg · team Eggshell Coins 60,000; a 15:00 clock.
+- **You walk** to a Lost Sanctum portal ("Enter the Lost Sanctum") and go in by its Main (orange)
+  or Side (blue) door.
+- **With an egg**, the way out is back through the door you came in by, then to the boat, where
+  the prompts are **Safe Evacuation · Deliver Egg · Leave**.
+*Source:* `log/2026-10-25-player-recordings-2-3.md` — Claude, 2026-10-25
+
 ### Log (the quest menu)
 
 - **You can tell by:** "Log" top-left, three pill tabs top-middle: **Lore · Quests · Journey**.

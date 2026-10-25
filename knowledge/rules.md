@@ -37,6 +37,11 @@ needs on-device text reading, which the app does not have yet — see `CHECKLIST
 
 — Claude, 2026-10-25, from the player's words
 
+**Seen in the player's own catching (2026-10-25):** yellow 315 → 307, blue 399 → 314, purple
+1030 → 945 over one session; green Hyper, Track, red Ultra and Sparkling Cube never used. The rule
+matches what they do, with blue and purple doing most of the throwing. The chance shows beside the
+target as "57%" with the selected pod's bonus ("×1.5 Aniipod Pro"). *Source:* `log/2026-10-25-player-recordings-2-3.md` — Claude, 2026-10-25
+
 ## Spending
 
 Anything that spends credits, Glimmer, Primegy or real money asks the player first

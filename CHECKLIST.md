@@ -26,13 +26,13 @@ fighting, aiming — the hardest).
 | # | Item | Kind | Learned | Your phone | Automated | What unblocks it |
 |---|---|---|---|---|---|---|
 | 1.1 | Joystick — where it is, that it starts where the thumb lands | walk | ✅ | ✅ floating ring, knob and direction dot | ⬜ | Walking steps in the app |
-| 1.2 | Turning the camera | walk | ⬜ | 🟡 a second dot on the right half | ⬜ | A recording of the player walking |
+| 1.2 | Turning the camera | walk | ⬜ | ✅ right-half drag, seen in Pointer location's trail | ⬜ | A recording of the player walking |
 | 1.3 | Main action button | play | 🟡 where, not what | ✅ | ⬜ | A combat recording |
 | 1.4 | Skill buttons — they rename with the party | play | ✅ | ✅ | ⬜ | — |
 | 1.5 | Dash, jump, dodge | walk/play | 🟡 Dash and Dodge seen; jump not | ✅ Dash used | ⬜ | A recording |
 | 1.6 | Twine / Untwine (taking control of the Aniimo) | play | ✅ the ring becomes the Aniimo's moves | ✅ twined for the Omega fight | ⬜ | A recording |
 | 1.7 | Recall, switch target, lock-on | play | ✅ where | ✅ | ⬜ | — |
-| 1.8 | Pod throw and catch mode | play | ✅ reticle, chance, pod picker, Alpha catch screen | ⬜ | ⬜ | A recording of a catch |
+| 1.8 | Pod throw and catch mode | play | ✅ reticle, chance, pod picker, Alpha catch screen | ✅ reticle, chance, picker, throws | ⬜ | A recording of a catch |
 | 1.9 | Top-right shortcut icons, and that the row grows with level | menu | ✅ | ✅ | — | A screenshot from the player's HUD |
 | 1.10 | Opening the main menu (pod-in-a-ring icon) | menu | ✅ PC labels it Esc | ✅ | ⬜ | One tap seen on the player's phone |
 | 1.11 | Reading the minimap | — | ✅ | ✅ | ✅ app finds the player 4 of 5 | — |
@@ -72,7 +72,7 @@ fighting, aiming — the hardest).
 | 3.17 | Appearance | 🟡 seen once | ⬜ | Low priority |
 | 3.18 | Courses | ⬜ | ⬜ | |
 | 3.19 | Homeland menus: Manage, Build, Warehouse, orders, processors | ✅ Home Overview, Daily Orders, Trips, Home Shop | ✅ Home Shop, Daily Orders, Co-op Store, Harvest Dailies | Build and Warehouse not yet seen |
-| 3.20 | Hatching screen (Hatch, Twine an Aniipod) | ✅ | ⬜ |  |
+| 3.20 | Hatching screen (Hatch, Twine an Aniipod) | ✅ | ✅ Hatchinator |  |
 | 3.21 | Start-up: login, announcements, server select | 🟡 server select only | 🟡 title and server, no announcements | Every chore day starts here |
 | 3.22 | Character → Info · Badges · Talents | ✅ | ⬜ | Title, level, Aniimo level cap, Paths |
 | 3.23 | Nurture and Nurturing Offering | ✅ | ⬜ | |
@@ -92,7 +92,7 @@ fighting, aiming — the hardest).
 | 4.7 | Free Nurture (one a day, stacks to 3) | menu | ✅ Map → Bloom → Nurture | ⬜ | ⬜ | A recording |
 | 4.8 | Event check-ins | menu | ✅ | ✅ Keep the Spark, login calendar | ⬜ | One chore per event; they change |
 | 4.9 | Homeland / RV: trips, orders, seeds, food, bud tickets, processors, hatchers | menu + walk | ✅ orders, trips, shop; plots need walking | ⬜ | ⬜ | Split into 4.17–4.25; see knowledge/homeland.md |
-| 4.10 | Egg Heist — one run a day (first gives double rank points) | play | ✅ | ⬜ not this time | 🟡 map helper, not the run | — |
+| 4.10 | Egg Heist — one run a day (first gives double rank points) | play | ✅ | 🟡 the start of a run | 🟡 map helper, not the run | — |
 | 4.11 | Message friends | menu | ⬜ | ⬜ | ⬜ | 3.16 |
 | 4.12 | Daily reset time | — | 🟡 guides say 04:00 | ⬜ | — | Which time zone |
 | 4.13 | Which Daily Activity tasks rotate — seen so far: Log In, Primegy 60, Stamps 50, Catch 5, Combat 5, Homeland, Shop | — | 🟡 seven seen | ⬜ | — | Keep noting them |
@@ -171,16 +171,18 @@ fighting, aiming — the hardest).
 | 8.5 | Optional steps (popups that come and go) | ⬜ | ⬜ |
 | 8.6 | Refuse paid / destructive buttons | ⬜ | ⬜ |
 | 8.7 | Walking steps (press-and-drag on the joystick) | ⬜ | ⬜ |
+| 8.9 | Egg Heist: guide back to the door you came in by after "Egg found" | 🟡 v0.16.0 written, not built | ⬜ |
+| 8.10 | Arrow pauses (not switches off) when a screen recorder takes the screen | 🟡 v0.16.0 written, not built | ⬜ |
 | 8.8 | Fallback to a model when a picture is not found | ⬜ | ⬜ |
 
 ---
 
 ## Where it stands
 
-Counted across sections 1–7, last on 2026-10-25 (after `log/2026-10-25-player-recording-1.md`):
+Counted across sections 1–7, last on 2026-10-25 (after `log/2026-10-25-player-recordings-2-3.md`):
 
 - **Learned:** 79 ✅ · 18 🟡 · 7 ⬜ (104 items) — was 38 · 29 · 15 of 82 earlier the same day
-- **Seen on your phone:** 37 ✅ · 4 🟡 · 37 ⬜ — the first recording
+- **Seen on your phone:** 40 ✅ · 4 🟡 · 34 ⬜ — the first recording
   (2026-10-25) covered the whole daily routine; still unseen: Egg Heist that day, Settings, Elite Training.
 - **Automated:** only the minimap reading has run on your phone. Five of the traps in section 7
   are handled in the app's code, untested on your phone; two chores are drafted, not runnable yet.

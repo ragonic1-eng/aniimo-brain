@@ -82,6 +82,16 @@ Evidence for all of these: `log/2026-10-25-environment-videos.md` · — Claude,
 
 *Source:* `log/2026-10-25-player-recording-1.md` — Claude, 2026-10-25
 
+## Recording vs the app (2026-10-25)
+
+- **The phone's screen recorder and Egg Heist Map's arrow cannot run together.** Android hands the
+  screen to one capturer; starting one stops the other. **What to do:** never expect a recording
+  to show the arrow working; record a run with the arrow off, or test the arrow without recording.
+- **Pointer location beats Show taps** for recordings: exact coordinates in a bar along the top and
+  crosshair lines, where Show taps' grey disc was too faint to find.
+
+*Source:* `log/2026-10-25-player-recordings-2-3.md` — Claude, 2026-10-25
+
 ## Template
 
 - **What happens:** the symptom, as the player would describe it.
