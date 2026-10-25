@@ -5,11 +5,14 @@ buttons, *your* account. This is the exact procedure. It takes about 20 minutes 
 
 ## Once: set the phone up
 
-1. **Turn on "Show taps":** Settings → About phone → Software information → tap **Build number**
-   seven times (unlocks Developer options). Then Settings → Developer options → scroll to
-   *Input* → turn on **Show taps** (Samsung calls it "Show taps and touches"). A small circle now
-   appears wherever a finger is. That circle is what the converter tracks — **without it, a
-   recording teaches nothing.**
+1. **Turn on "Pointer location", not just "Show taps":** Settings → About phone → Software
+   information → tap **Build number** seven times (unlocks Developer options). Then Settings →
+   Developer options → scroll to *Input* → turn on **Pointer location**. Thin crosshair lines
+   now run across the whole screen from wherever a finger is, with a bar of numbers along the
+   top. That is what the converter reads — lines spanning the screen are unmistakable, where the
+   small grey circle that "Show taps" draws turned out to be too faint to find on game footage
+   (`log/2026-10-25-player-recording-1.md`). Turn Pointer location off again after recording; the
+   lines are in the way while playing. ("Show taps" can stay on; it does no harm.)
 2. **Screen recorder settings:** swipe down the quick panel → long-press **Screen recorder** →
    Video quality **1080p**, Sound **None** (or Media), Selfie video off. Keep the phone in
    landscape as you play.
