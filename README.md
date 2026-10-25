@@ -25,6 +25,12 @@ cross between assistants.
 3. The Egg Heist Map app runs the chore on the phone — it finds each button on screen and either
    points at it or taps it.
 
+## Bringing another assistant in
+
+[START-HERE-CHATGPT.md](START-HERE-CHATGPT.md) is a briefing to paste into a fresh ChatGPT
+conversation. It explains the project, this repo's rules, and what to hand back — written to work
+even if that assistant cannot reach this page.
+
 ## Rules
 
 Read **[AGENTS.md](AGENTS.md)** before writing anything here. The short version: no game art, no
